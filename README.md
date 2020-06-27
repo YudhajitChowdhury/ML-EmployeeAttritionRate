@@ -15,7 +15,7 @@ sample_submission.csv
 # Submission format
 You are required to write your predictions in a .csv file that contain the following columns:
 
-Employee_ID
+Employee_ID |
 Attrition_rate
 
 
